@@ -1,0 +1,19 @@
+﻿# Compiler
+cache/
+out/
+
+# Broadcast / local chain
+broadcast/
+
+# Coverage
+coverage/
+
+# Secrets
+.env
+
+# Editor / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
